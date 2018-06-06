@@ -1,0 +1,13 @@
+1. There are two ways
+--> <function name>( )
+--> assigning a function to a modified function of our choice
+
+cust_function <- <function name> ( )
+
+2. True
+
+3.a. False
+b.False
+c. False
+d. False
+
